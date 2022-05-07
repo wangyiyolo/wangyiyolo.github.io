@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_sc2"]=self["webpackChunkvue_sc2"]||[]).push([[234],{6234:function(e,r,u){u.r(r),u.d(r,{default:function(){return f}});var n=function(){var e=this,r=e.$createElement,u=e._self._c||r;return u("div",[e._v(" 我是团购订单 groupOrder ")])},t=[],c={name:"groupOrder"},s=c,l=u(1001),a=(0,l.Z)(s,n,t,!1,null,"53006b37",null),f=a.exports}}]);
